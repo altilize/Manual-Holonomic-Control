@@ -1,0 +1,14 @@
+# Arduino / PlatformIO build output
+build/
+.pio/
+*.bin
+*.elf
+*.hex
+*.map
+
+# IDE / editor
+.vscode/
+.idea/
+.theia/
+*.swp
+.DS_Store
